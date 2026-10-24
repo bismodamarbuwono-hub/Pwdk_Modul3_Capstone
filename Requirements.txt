@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-openai
+langchain-qdrant
+langgraph
+qdrant-client
+python-dotenv
+langfuse
